@@ -7,7 +7,7 @@ It is also responsive.
 
 **This app is made with the help of HTML, CSS, Javascript, and DOM Manipulation.**
 
-![image](https://user-images.githubusercontent.com/69343277/110215381-7dde9000-7ecf-11eb-83b0-1e136c46f4f5.png)
+![DRUMKIT](https://user-images.githubusercontent.com/62961083/113185113-ab6eed00-9273-11eb-9558-e516fd709d61.png)
 
 
 
